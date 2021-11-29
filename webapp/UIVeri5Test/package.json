@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package json",
+  
+  "scripts": {
+    "test": "conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ui5/uiveri5": "^1.47.4"
+  }
+}
